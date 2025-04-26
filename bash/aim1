@@ -1,0 +1,1 @@
+cd /home/ustc/Code/xiaozy/moire/cc && CUDA_VISIBLE_DEVICES=0 python train_zy1.py --config config/aim_config_zy1_1.yaml

@@ -1,0 +1,1 @@
+cd /home/ustc/Code/xiaozy/moire/cc && CUDA_VISIBLE_DEVICES=1 python train_zy1.py --config config/fhdmi_config_zy1_1.yaml
